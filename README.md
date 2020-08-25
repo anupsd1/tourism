@@ -1,6 +1,7 @@
 # tourism
 
 A new Flutter application.
+Mobile app demo for tourism.
 
 ## Getting Started
 
